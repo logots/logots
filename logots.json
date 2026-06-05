@@ -1,6 +1,11 @@
 
 {
   "licenses": [
+        {
+      "name": "ADMIN",
+      "key": "SSH",
+      "expiry": "2026-06-06"
+    },
     {
       "name": "Sonu",
       "key": "SONU12456",
