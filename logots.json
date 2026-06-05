@@ -26,7 +26,8 @@
     {
       "name": "ROBIN",
       "key": "ROBIN001",
-      "expiry": "2026-07-05"
+      "expiry": "2026-07-05",
+      "mode": "vip"
     },
     {
       "name": "ARYAN",
