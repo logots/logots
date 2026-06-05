@@ -1,5 +1,15 @@
 
 {
+
+"update_log": [
+{
+"version": "2.0.0",
+"downloadlink": "https://",
+"info": "hello dost "
+}
+] 
+
+  
   "licenses": [
         {
       "name": "ADMIN",
