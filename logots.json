@@ -1,17 +1,13 @@
-
 {
-
-"update_log": [
-{
-"version": "2.0.0",
-"downloadlink": "https://",
-"info": "hello dost "
-}
-] ,
-
-  
+  "update_log": [
+    {
+      "version": "2.0.0",
+      "downloadlink": "https://",
+      "info": "hello dost "
+    }
+  ],
   "licenses": [
-        {
+    {
       "name": "ADMIN",
       "key": "SSH",
       "expiry": "2026-06-06",
@@ -32,21 +28,21 @@
       "key": "ROBIN001",
       "expiry": "2026-07-05"
     },
-        {
+    {
       "name": "ARYAN",
       "key": "ARYAN1725",
       "expiry": "2026-07-05"
-        },
-            {
+    },
+    {
       "name": "ROYAL",
       "key": "ROYAL373537",
       "expiry": "2026-07-05"
-            },
-               {
+    },
+    {
       "name": "Dipankar",
       "key": "Dipankar765577",
       "expiry": "2026-07-06"
-               },
+    },
     {
       "name": "Abdul Basit",
       "key": "Abdul3836358",
