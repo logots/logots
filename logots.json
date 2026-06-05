@@ -8,7 +8,7 @@
   "licenses": [
     {
       "name": "ADMIN",
-      "key": "SSH",
+      "key": "AADS",
       "expiry": "2026-06-06",
       "mode": "vip"
     },
