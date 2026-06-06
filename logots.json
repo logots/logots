@@ -15,7 +15,8 @@
     {
       "name": "Sonu",
       "key": "SONU12456",
-      "expiry": "2026-07-05"
+      "expiry": "2026-07-05",
+      "mode": "vip"
     },
     {
       "name": "ANEES",
