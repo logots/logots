@@ -8,8 +8,8 @@
   "licenses": [
     {
       "name": "ADMIN",
-      "key": "AADS",
-      "expiry": "2026-06-06",
+      "key": "ST",
+      "expiry": "2026-06-08",
       "mode": "vip"
     },
     {
