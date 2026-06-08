@@ -6,42 +6,35 @@
       "expiry": "2026-06-09",
       "mode": "vip"
     },
-        {
+    {
       "name": "Dipankar",
       "key": "Dipankar225",
       "expiry": "2026-07-09"
-      
     },
-        {
+    {
       "name": "KankanBiswas",
       "key": "BiswasBiswas116",
       "expiry": "2026-07-09"
-      
-        },
-
-        {
+    },
+    {
       "name": "IsraeelKhan",
-      "key": "IsraeelKhan126",    
+      "key": "IsraeelKhan126",
       "expiry": "2026-07-09"
-      
-        },
-        {
+    },
+    {
       "name": "anees",
       "key": "anees2525",
       "expiry": "2026-07-09"
-      
-        }'
-            {
+    },
+    {
       "name": "babubahi",
       "key": "babubahi2625",
       "expiry": "2026-07-09"
-      
-        },
-                {
+    },
+    {
       "name": "RDX",
-      "key": "RDXX01", 
+      "key": "RDXX01",
       "expiry": "2026-07-09"
-      
-        }
+    }
   ]
 }
