@@ -1,0 +1,10 @@
+{
+  "licenses": [
+    {
+      "name": "ADMIN",
+      "key": "ST",
+      "expiry": "2026-06-09",
+      "mode": "vip"
+    }
+  ]
+}
